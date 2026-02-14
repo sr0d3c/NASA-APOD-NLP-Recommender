@@ -74,7 +74,7 @@ NASA-APOD-NLP-Recommender/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/NASA-APOD-NLP-Recommender.git
+git clone https://github.com/sr0d3c/NASA-APOD-NLP-Recommender.git
 cd NASA-APOD-NLP-Recommender
 ```
 
